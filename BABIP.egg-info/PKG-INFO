@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: BABIP
+Version: 0.0.1
+Summary: Easy Tools for Improving Machine Learning Models
+Home-page: https://github.com/hdydtdxdt/BABIP
+Author: hdydtdxdt
+Author-email: hdydtdxdt@gmail.com
+Keywords: machine learning,deep learning,artificial intelligence,korean,easy,hdydtdxdt
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.6
